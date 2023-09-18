@@ -1,10 +1,9 @@
 .container {
 }
-.container {
-}
 
 .top {
   display: flex;
+  gap: 30px;
 }
 
 .info {
